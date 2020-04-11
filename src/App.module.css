@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(250, 250, 250);
+}
+
+.appHeader {
+  text-align: center;
+  color: black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
